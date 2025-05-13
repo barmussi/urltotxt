@@ -1,4 +1,6 @@
-import subprocess, os, tempfile
+import subprocess
+import os
+import tempfile
 from flask import Flask, request, send_file, jsonify
 
 app = Flask(__name__)
@@ -19,6 +21,7 @@ def descargar_audio():
             "--audio-format", "mp3",
             "--user-agent", "Mozilla/5.0",
             "--no-check-certificate",
+            "--cookies", "cookies.txt",  # <- ¡IMPORTANTE!
             "-o", output_path,
             url
         ]
@@ -28,7 +31,7 @@ def descargar_audio():
         except subprocess.CalledProcessError as e:
             return jsonify({"error": "Fallo yt-dlp", "details": str(e)}), 500
 
-        # Buscar el archivo mp3 generado
+        # Buscar archivo MP3
         for file in os.listdir(tmpdir):
             if file.endswith(".mp3"):
                 return send_file(os.path.join(tmpdir, file), as_attachment=True, download_name="audio.mp3")
@@ -37,8 +40,7 @@ def descargar_audio():
 
 @app.route("/")
 def home():
-    return "API YouTube a MP3 activa"
-
+    return "✅ API YouTube a MP3 activa"
 
 @app.route("/health", methods=["GET"])
 def health():
