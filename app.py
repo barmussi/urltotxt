@@ -1,39 +1,44 @@
-from flask import Flask, request, jsonify, send_file
-import subprocess
-import os
-import tempfile
+import subprocess, os, tempfile
+from flask import Flask, request, send_file, jsonify
 
 app = Flask(__name__)
 
 @app.route("/download", methods=["POST"])
-def download_audio():
-    data = request.get_json()
+def descargar_audio():
+    data = request.json
     url = data.get("youtube_url")
-
     if not url:
-        return jsonify({"error": "Falta el parámetro 'youtube_url'"}), 400
+        return jsonify({"error": "Falta 'youtube_url'"}), 400
 
-    try:
-        with tempfile.TemporaryDirectory() as tmpdir:
-            output_path = os.path.join(tmpdir, "audio.mp3")
-            command = [
-                "yt-dlp",
-                "--extract-audio",
-                "--audio-format", "mp3",
-                "-o", output_path,
-                url
-            ]
+    with tempfile.TemporaryDirectory() as tmpdir:
+        output_path = os.path.join(tmpdir, "audio.%(ext)s")
+
+        command = [
+            "yt-dlp",
+            "--extract-audio",
+            "--audio-format", "mp3",
+            "--user-agent", "Mozilla/5.0",
+            "--no-check-certificate",
+            "-o", output_path,
+            url
+        ]
+
+        try:
             subprocess.run(command, check=True)
+        except subprocess.CalledProcessError as e:
+            return jsonify({"error": "Fallo yt-dlp", "details": str(e)}), 500
 
-            return send_file(
-                output_path,
-                as_attachment=True,
-                download_name="audio.mp3",
-                mimetype="audio/mpeg"
-            )
+        # Buscar el archivo mp3 generado
+        for file in os.listdir(tmpdir):
+            if file.endswith(".mp3"):
+                return send_file(os.path.join(tmpdir, file), as_attachment=True, download_name="audio.mp3")
 
-    except subprocess.CalledProcessError as e:
-        return jsonify({"error": "Error al procesar el video", "details": str(e)}), 500
+        return jsonify({"error": "No se generó ningún archivo mp3"}), 500
+
+@app.route("/")
+def home():
+    return "API YouTube a MP3 activa"
+
 
 @app.route("/health", methods=["GET"])
 def health():
