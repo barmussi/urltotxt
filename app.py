@@ -80,6 +80,7 @@ def download_audio():
                 as_attachment=True,
                 mimetype='audio/mpeg',
                 download_name=os.path.basename(filename)
+            )
             
     except yt_dlp.utils.DownloadError as e:
         return jsonify({
