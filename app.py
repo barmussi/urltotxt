@@ -1,47 +1,48 @@
 import os
-import yt_dlp
 from flask import Flask, request, send_file, jsonify
 from io import BytesIO
+import yt_dlp
 
 app = Flask(__name__)
 
-# Configuración express turbo
+# Configuración Turbo++ con cookies de emergencia
 YDL_OPTS = {
     'format': 'bestaudio/best',
     'postprocessors': [{
         'key': 'FFmpegExtractAudio',
         'preferredcodec': 'mp3',
     }],
-    'outtmpl': '-',  # Stream directo a memoria
+    'outtmpl': '-',
     'quiet': True,
-    'no_warnings': True,
-    'http_chunk_size': 1048576,  # Buffer grande para velocidad
+    'cookiefile': 'cookies.txt',  # Archivo de cookies opcional
+    'http_headers': {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+        'Accept-Language': 'en-US,en;q=0.9'
+    }
 }
 
-@app.route('/turbo', methods=['GET'])
-def turbo_download():
-    url = request.args.get('url')
-    if not url:
-        return jsonify({"error": "¡URL requerida! Ej: /turbo?url=VIDEO_URL"}), 400
-    
+@app.route('/super', methods=['GET'])
+def super_download():
     try:
-        ydl = yt_dlp.YoutubeDL(YDL_OPTS)
-        info = ydl.extract_info(url, download=True)
-        audio_data = ydl.pipe.result
-        
-        return send_file(
-            BytesIO(audio_data),
-            as_attachment=True,
-            mimetype='audio/mpeg',
-            download_name=f"{info['title'][:25]}.mp3"
-        )
-        
+        url = request.args['url']
+        with yt_dlp.YoutubeDL(YDL_OPTS) as ydl:
+            info = ydl.extract_info(url)
+            return send_file(
+                BytesIO(ydl.pipe.read()),
+                mimetype='audio/mpeg',
+                as_attachment=True,
+                download_name=f"{info['title'][:30]}.mp3"
+            )
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({
+            "error": "¡Contenido restringido!",
+            "solución": "Usa cookies.txt",
+            "detalles": str(e)
+        }), 500
 
 @app.route('/health')
 def health():
-    return jsonify({"status": "🚀 Hyper Active", "version": "Turbo-2.0"})
+    return jsonify({"status": "🔥 Turbo Activo"})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8000)))
