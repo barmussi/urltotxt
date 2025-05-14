@@ -2,3 +2,4 @@ Flask
 yt-dlp
 browser-cookie3
 flask_caching
+gunicorn
