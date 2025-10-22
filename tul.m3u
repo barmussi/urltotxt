@@ -1,0 +1,2492 @@
+#EXTINF:-1,HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://181.78.106.127:9000/play/ca069/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://38.180.133.31:8000/play/a0le/index.m3u8
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://181.205.130.194:4000/play/a0dr
+#EXTINF:-1,HBO POP HD
+http://181.143.230.202:8000/play/a02p/index.m3u8
+#EXTINF:-1,TLC
+http://181.205.130.194:4000/play/a07p
+#EXTINF:-1,TCM
+http://38.41.8.1:8000/play/a04x
+#EXTINF:-1,TCM
+http://181.205.130.194:4000/play/a06l
+#EXTINF:-1,TCM
+http://200.60.124.19:29000/play/a01s
+#EXTINF:-1,Golden
+http://181.78.106.127:9000/play/ca076/index.m3u8
+#EXTINF:-1,GOLDEN
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,Golden Edge
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDENPREMIERE
+http://45.184.87.142:8000/play/a03a
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD
+http://200.125.170.122:8000/play/a00l
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD
+http://190.61.117.35:8000/play/a036
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere 2 HD
+http://190.61.117.35:8000/play/a037
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere 2 HD
+http://200.125.170.121:8000/play/a00m
+#EXTINF:-1,Cinemax
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",Cinemax  2
+http://38.44.109.41:8003/play/a023/index.m3u8
+#EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",CineMax  
+http://45.5.119.43:4000/play/a0il/index.m3u8
+#EXTINF:-1,CineMax
+http://38.180.133.31:8000/play/a0qb/index.m3u8
+#EXTINF:-1, CINEMAX
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1,03.Cinemax
+http://200.60.124.19:29000/play/a025
+#EXTINF:-1,Cinemax
+http://38.41.8.1:8000/play/a05v
+#EXTINF:-1,Cinecanal
+http://200.60.124.19:29000/play/a01l
+#EXTINF:-1,Cinecanal
+http://181.205.130.194:4000/play/a06e
+#EXTINF:-1,CineCanal
+http://38.180.133.31:8000/play/a0qd/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://38.180.133.31:8000/play/a0p4/index.m3u8
+#EXTINF:-1,Multipremier
+http://179.49.163.34:45000/play/a016/index.m3u8
+#EXTINF:-1,Multipremier
+http://181.78.106.127:9000/play/ca087/index.m3u8
+#EXTINF:-1, PARAMOUNT
+http://181.78.106.127:9000/play/ca082/index.m3u8
+#EXTINF:-1, PARAMOUNT
+http://200.125.170.120:8000/play/a060
+#EXTINF:-1,AMC
+http://38.180.133.31:8000/play/a0nj/index.m3u8
+#EXTINF:-1,Warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,Warner
+http://38.180.133.31:8000/play/a0op/index.m3u8
+#EXTINF:-1,07.1Warner
+http://200.60.124.19:29000/play/a013
+#EXTINF:-1,07.1Warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,07.1Warner
+http://190.60.32.178:8178/play/a0az/index.m3u8
+#EXTINF:-1,Warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,07.8AXN
+http://200.60.124.19:29000/play/a027
+#EXTINF:-1,AXN
+http://181.78.106.127:9000/play/ca085/index.m3u8
+#EXTINF:-1,05.1Space
+http://181.78.106.127:9000/play/ca072/index.m3u8
+#EXTINF:-1,05.1Space
+http://200.60.124.19:29000/play/a028
+#EXTINF:-1,SPACE HD
+http://38.180.133.31:8000/play/a0qj/index.m3u8
+#EXTINF:-1,Space HD
+http://181.78.78.66:8000/play/a028
+#EXTINF:-1,SPACE HD
+http://38.180.133.31:8000/play/a0qj/index.m3u8
+#EXTINF:-1,Space HD
+http://38.180.133.31:8000/play/a0t1/index.m3u8
+#EXTINF:-1,Space HD
+http://45.181.122.46:8090/play/a00h
+#EXTINF:-1,Comedy Central HD
+http://200.125.170.121:8000/play/a04l
+#EXTINF:-1,USA
+http://181.205.130.194:4000/play/a06v
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULA HD 
+http://190.60.42.86:8000/play/a013/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://179.49.163.34:45000/play/a013/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://190.60.33.237:1010/play/a0ec/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://181.78.106.127:9000/play/ca073/index.m3u8
+#EXTINF:-1,Cine Latino
+http://38.180.133.31:8000/play/a0qa/index.m3u8
+#EXTINF:-1,Universal Crime
+http://38.180.133.31:8000/play/a0ph/index.m3u8
+#EXTINF:-1,Universal Premiere
+http://38.180.133.31:8000/play/a0pe/index.m3u8
+#EXTINF:-1,Universal Reality
+http://38.180.133.31:8000/play/a0pg/index.m3u8
+#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere East" group-title="Peliculas & Series" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", UNIVERSAL PREMIERE HD
+http://200.115.96.66:4000/play/a035/index.m3u8
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD 
+http://181.78.78.66:8000/play/a04m
+#EXTINF:-1,Universal cinema
+http://181.78.106.127:9000/play/ca083/index.m3u8
+#EXTINF:-1,Universal Tv
+http://38.41.8.1:8000/play/a04r
+#EXTINF:-1, UNIVERSAL TV
+http://181.205.130.194:4000/play/a06f
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",RED - UNIVERSAL COMEDY HD
+http://38.52.182.236:9000/play/a09b
+#EXTINF:-1, UNIVERSAL TV
+http://200.60.124.19:29000/play/a01m
+#EXTINF:-1,Universal
+http://200.60.124.19:29000/play/a01m
+#EXTINF:-1,Studio Universal
+http://181.78.106.127:9000/play/ca074/index.m3u8
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal
+http://190.61.117.35:8000/play/a029
+#EXTINF:-1,Comedia Central
+http://181.78.106.127:9000/play/ca050/index.m3u8
+#EXTINF:-1,A&E
+http://181.205.130.194:4000/play/a07n
+#EXTINF:-1,A&E
+http://181.78.106.127:9000/play/ca086/index.m3u8
+#EXTINF:-1,A&E
+http://38.180.133.31:8000/play/a0or/index.m3u8
+#EXTINF:-1,A&E HD
+http://181.78.106.127:9000/play/ca086/index.m3u8
+#EXTINF:-1 tvg-id="lch2325" tvg-name="FX HD" group-title="Peliculas & Series" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022020/fx_logo_thumbnail.jpg", FX HD
+http://200.115.96.66:4000/play/a0he/index.m3u8
+#EXTINF:-1, FX
+http://181.78.106.127:9000/play/ca074/index.m3u8
+#EXTINF:-1 tvg-name="LA: FX"tvg-id="FX HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/FX.jpg"tvg-chno="217"group-title="Cine",FX
+http://200.115.96.66:4000/play/a0he/index.m3u8
+#EXTINF:-1, FX
+http://181.78.106.127:9000/play/ca075/index.m3u8
+#EXTINF:-1, FX
+http://200.60.124.19:29000/play/a029
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/900px-TNT_Logo_2016.svg.png" group-title="varios",TNT
+http://200.60.124.19:29000/play/a01u
+#EXTINF:-1,TLC
+http://181.205.130.194:4000/play/a07p
+#EXTINF:-1,TNT HD
+http://181.205.130.194:4000/play/a06n
+#EXTINF:-1,7.6 TNT
+http://200.60.124.19:29000/play/a01u
+#EXTINF:-1,TNT Series HD
+http://38.180.133.31:8000/play/a0qr/index.m3u8
+#EXTINF:-1,TNT Novelas
+http://45.184.87.142:8000/play/a02j
+#EXTINF:-1,TNT Novelas
+http://200.115.96.66:4000/play/a01p/index.m3u8
+#EXTINF:-1,TNT Novelas
+http://200.60.124.19:29000/play/a06r
+#EXTINF:-1 group-title="© Caracol" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/120px-Caracol_HD_Internacional.png",CARACOL TV HD2
+http://181.78.14.26:8000/play/a00d
+#EXTINF:-1,Caracol
+http://38.41.8.1:8000/play/a06i
+#EXTINF:-1,Caracol
+http://179.49.163.34:45000/play/a032/index.m3u8
+#EXTINF:-1,RCN
+http://179.49.163.34:45000/play/a033/index.m3u8
+#EXTINF:-1,RCN
+http://38.41.8.1:8000/play/a06j
+#EXTINF:-1,RCN
+http://190.60.32.178:8178/play/a0ao/index.m3u8
+#EXTINF:-1,RCN novelas
+http://181.78.106.127:9000/play/ca014/index.m3u8
+#EXTINF:-1 tvg-id="starmain",Star Channel
+http://179.49.163.34:45000/play/a004/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://38.180.133.31:8000/play/a0p1/index.m3u8
+#EXTINF:-1,07.3STAR CHANNEL
+http://200.60.124.19:29000/play/a01r
+#EXTINF:-1,SONY
+http://179.49.163.34:45000/play/a020/index.m3u8
+#EXTINF:-1,SONY
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,SONY HD
+http://38.180.133.31:8000/play/a0p3/index.m3u8
+#EXTINF:-1,05.2Sony
+http://200.60.124.19:29000/play/a026
+#EXTINF:-1,SONY HD
+http://38.180.133.31:8000/play/a0oo/index.m3u8
+#EXTINF:-1 ,2031 cine premiun
+http://190.60.32.178:8178/play/a07f/index.m3u8
+#EXTINF:-1 ,2038 IVC
+http://190.60.32.178:8178/play/a085/index.m3u8
+#EXTINF:-1,Globo
+http://181.78.106.127:9000/play/ca089/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://181.78.106.127:9000/play/ca011/index.m3u8
+#EXTINF:-1,Canal 3
+http://181.78.106.127:9000/play/ca010/index.m3u8
+#EXTINF:-1,Asteca 7
+http://181.78.106.127:9000/play/ca023/index.m3u8
+#EXTINF:-1,Canal 5
+http://181.78.106.127:9000/play/ca012/index.m3u8
+#EXTINF:-1,STUDIO CHANNEL
+http://181.78.106.127:9000/play/ca088/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://181.205.130.194:4000/play/a07r
+#EXTINF:-1,Canal 5 gt
+http://38.180.133.31:8000/play/a0of/index.m3u8
+#EXTINF:-1,Canal 7 GT
+http://38.180.133.31:8000/play/a0ob/index.m3u8
+#EXTINF:-1,CanaL 2
+http://181.78.106.127:9000/play/ca002/index.m3u8
+#EXTINF:-1,Telemundo
+http://181.78.106.127:9000/play/ca009/index.m3u8
+#EXTINF:-1,Disney Channel
+http://181.78.106.127:9000/play/ca053/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://181.78.106.127:9000/play/ca052/index.m3u8
+#EXTINF:-1,Dreanwork
+http://181.78.106.127:9000/play/ca054/index.m3u8
+#EXTINF:-1,Canal 5 ar
+http://181.78.106.127:9000/play/ca005/index.m3u8
+
+
+#EXTINF:-1,ESPN MX
+http://38.180.133.31:8000/play/a0ox/index.m3u8
+#EXTINF:-1,ESPN MX
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1, ESPN
+http://200.60.124.19:29000/play/a016
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 1
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 1 col
+http://38.44.109.41:8003/play/a02v
+#EXTINF:-1,ESPN sd
+http://38.41.8.1:8000/play/a06r
+#EXTINF:-1,ESPN sd
+http://38.41.8.1:8000/play/a07q
+#EXTINF:-1,ESPN MX
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1,ESPN mx
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 2
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1,ESPN CO
+http://200.59.188.3:8000/play/a03i
+#EXTINF:-1,ESPN2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1 tvg-id="lch2776" tvg-name="ESPN 3 HD" group-title="Deportes" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", ESPN 3 HD | MX
+http://181.78.106.127:9000/play/ca035/index.m3u8
+#EXTINF:-1 ,2003 ESPN 3 MX
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1,ESPN3
+http://181.78.106.127:9000/play/ca035/index.m3u8
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 4 MX
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1 tvg-id="lch5615" tvg-name="ESPN 4 HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/Espn5.png", ESPN 5
+http://38.41.8.1:8000/play/a07b
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://181.205.130.194:4000/play/a07t
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://38.44.109.41:8003/play/a00u
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://38.41.8.1:8000/play/a082
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://200.125.170.123:8000/play/a05y
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 7 mx
+http://181.205.130.194:4000/play/a07s
+
+#EXTINF:-1, ESPN 2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1, ESPN 2
+http://200.60.124.19:29000/play/a015
+#EXTINF:-1, ESPN 2
+http://190.60.32.178:8178/play/a0at/index.m3u8
+#EXTINF:-1,ESPN 2
+http://38.180.133.31:8000/play/a0w4/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://38.180.133.31:8000/play/a0t3/index.m3u8
+#EXTINF:-1, ESPN 3
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1, ESPN 3
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1, ESPN 4
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1,ESPN5
+http://200.60.124.19:29000/play/a04y
+#EXTINF:-1, ESPN 6 mx
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:-1, ESPN 6 MX
+http://200.60.124.19:29000/play/a01f
+#EXTINF:-1,ESPN 6
+http://38.180.133.31:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamérica" ​​tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
+http://200.60.124.19:29000/play/a01e
+#EXTINF:-1,Liga Hipermotion
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1,TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1,Tigo sports SALVADOR
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1 tvg-name="⚽|TIGO SPORTRS "tvg-logo="https://i.postimg.cc/TwXt7G6h/1280px-Tigo-Sports-logo.png"group-title="⚽️DEPORTES PREMIUM ⚽️",➾ ⚽| TIGO SPORTS |
+http://38.180.133.31:8000/play/a0p5/index.m3u8
+#EXTINF:-1,STUDIO CHANEL
+http://181.78.106.127:9000/play/ca088/index.m3u8
+#EXTINF:-1,Fox Sports
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png",FOX SPORT
+http://190.61.117.35:8000/play/a05n
+#EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png",FOX PREMIUM
+http://190.61.117.35:8000/play/a04a
+#EXTINF:-1, FOX SPORTS
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1, Fox Sports mx 
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1 group-title="АПЛ", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1 tvg-chno="0" id="CANAL 9 IXCHIGUÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_1ee76d90c9bd4423ad363454ea60cebf~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 IXCHIGUÁN | GT
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES", IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d696844d1b49413d91aadba9ad6e8c5f~mv2.jpg" group-title="CONSTANTEMENTE CINE",FARO VISIÓN | DO
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 group-title="-freetv.com-" tvg-logo="https://imgur.com/XLYoL4t.jpg",freetv.com - FreeTV 8.2
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg" group-title="24/7", TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_877325b0e9574b8ea585d9eef33fae50~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SAS TV | GT
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1, canal 9
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/31/dominican-republic-1460624_960_720.jpg" group-title="R.DOMINICANA",R.DOMINICANA
+#EXTINF:-1, XXXXXXX
+
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
+http://live.redtraffic.xyz/anal.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Asian
+http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Rough
+http://live.redtraffic.xyz/rough.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Compilation
+http://live.redtraffic.xyz/compilation.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Brunette
+http://live.redtraffic.xyz/brunette.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blonde
+http://live.redtraffic.xyz/blonde.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gay
+http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Live Cams
+http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Milf
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Pornstars
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Woman
+http://live.redtraffic.net/woman.m3u8
+
+#EXTINF:-1,Sports
+https://raw.githubusercontent.com/LeoDe1vid/FutLibre_IPTV/main/Sports_channels.m3u8
+
+#EXTINF:-1,otra url
+#EXTINF:-1 ,ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 ,ESPN 4
+http://177.93.46.163:8000/play/a01j
+#EXTINF:-1 ,ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 ,ESPN ARG HD
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:-1 ,ESPN 7
+http://177.93.46.163:8000/play/a01a
+#EXTINF:-1 ,FUTBOL NETWORK
+https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
+#EXTINF:-1 ,CARACOL
+http://177.93.46.163:8000/play/a01n
+#EXTINF:-1 ,RCN
+http://177.93.46.163:8000/play/a01o
+
+
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,TUDN
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1,CINECANAL
+http://181.205.130.194:4000/play/a06e
+#EXTINF:-1,UNIVERSAL TV
+http://181.205.130.194:4000/play/a06f
+#EXTINF:-1,CARTOON NETWORK
+http://181.205.130.194:4000/play/a06m
+#EXTINF:-1,TNT
+http://181.205.130.194:4000/play/a06n
+#EXTINF:-1,CLARO SPORTS
+http://181.205.130.194:4000/play/a06o
+#EXTINF:-1,USA
+http://181.205.130.194:4000/play/a06v
+#EXTINF:-1,WARNER BROSS
+http://181.205.130.194:4000/play/a07f
+#EXTINF:-1,ESPN
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1,ESPN
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1,ESPN 2
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1,ESPN 6
+http://181.205.130.194:4000/play/a07t
+#EXTINF:-1,ESPN 7
+http://181.205.130.194:4000/play/a07s
+#EXTINF:-1,A&E
+http://181.205.130.194:4000/play/a07n
+#EXTINF:-1,LAS ESTRELLAS
+http://181.205.130.194:4000/play/a07r
+#EXTINF:-1,RCN
+http://181.205.130.194:4000/play/a08f
+#EXTINF:-1,SEÑAL COLOMBIA
+http://181.205.130.194:4000/play/a08k
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,ESPN 2 HD
+http://45.184.87.142:8000/play/a04a
+#EXTINF:-1,ESPN 3 HD
+http://45.184.87.142:8000/play/a04b
+#EXTINF:-1,ESPN 4 HD
+http://45.184.87.142:8000/play/a04c
+#EXTINF:-1,WIN SPORTS +
+http://45.184.87.142:8000/play/a04d
+#EXTINF:-1,HBO
+http://45.184.87.142:8000/play/a04k
+#EXTINF:-1,HBO 2
+http://45.184.87.142:8000/play/a05a
+#EXTINF:-1,HBO PLUS
+http://45.184.87.142:8000/play/a05m
+#EXTINF:-1,HBO XTREME
+http://45.184.87.142:8000/play/a04l
+#EXTINF:-1,AMC
+http://45.184.87.142:8000/play/a04m
+#EXTINF:-1,GOLDEN
+http://45.184.87.142:8000/play/a04u
+#EXTINF:-1,GOLDEN PREMIER
+http://45.184.87.142:8000/play/a03a
+#EXTINF:-1,GOLDEN EDGE
+http://45.184.87.142:8000/play/a04t
+#EXTINF:-1,CINEMAX
+http://45.184.87.142:8000/play/a04i
+#EXTINF:-1,TNT
+http://45.184.87.142:8000/play/a04e
+#EXTINF:-1,PARAMOUNT NETWORK
+http://45.184.87.142:8000/play/a04g
+#EXTINF:-1,UNIVERSAL CINEMA
+http://45.184.87.142:8000/play/a05o
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://45.184.87.142:8000/play/a05r
+#EXTINF:-1,UNIVERSAL CRIME
+http://45.184.87.142:8000/play/a05q
+#EXTINF:-1,FMH MOVIES
+http://45.184.87.142:8000/play/a04o
+#EXTINF:-1,FMH KIDS
+http://45.184.87.142:8000/play/a01u
+#EXTINF:-1,MX
+http://45.184.87.142:8000/play/a05e
+#EXTINF:-1,MX Family
+http://45.184.87.142:8000/play/a03b
+#EXTINF:-1,MX Clasic
+http://45.184.87.142:8000/play/a03g
+#EXTINF:-1,MX Series
+http://45.184.87.142:8000/play/a03f
+#EXTINF:-1,AZ CINEMA
+http://45.184.87.142:8000/play/a05i
+#EXTINF:-1,HEM NET
+http://45.184.87.142:8000/play/a04z
+#EXTINF:-1,AMERICA
+http://45.184.87.142:8000/play/a01a
+#EXTINF:-1,DISNEY CHANNEL
+http://45.184.87.142:8000/play/a01o
+#EXTINF:-1,NICKELODEON
+http://45.184.87.142:8000/play/a01s
+#EXTINF:-1,LOONEY TUNES
+http://45.184.87.142:8000/play/a01w
+#EXTINF:-1,CARACOL
+http://45.184.87.142:8000/play/a02d
+#EXTINF:-1,LAS ESTRELLAS
+http://45.184.87.142:8000/play/a02e
+TNT Novelas
+http://45.184.87.142:8000/play/a02j
+#EXTINF:-1,CINE LATINO
+http://45.184.87.142:8000/play/a05c
+#EXTINF:-1,ID
+http://45.184.87.142:8000/play/a05n
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://45.184.87.142:8000/play/a03z
+#EXTINF:-1,CINECANAL
+http://45.184.87.142:8000/play/a04h
+#EXTINF:-1,TEENNICK
+http://45.184.87.142:8000/play/a00b
+#EXTINF:-1,TELETRECE
+http://45.184.87.142:8000/play/a00v
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,HBO XTREME
+http://181.78.106.127:9000/play/ca069/index.m3u8
+#EXTINF:-1,GOLDEN PREMIER
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,CINEMAX
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1,Cinemax
+http://45.5.119.43:4000/play/a0il/index.m3u8
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal
+http://190.61.117.35:8000/play/a029
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,ESPN 2 HD
+http://104.238.205.28:8989/278762_.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://104.238.205.28:8989/278763_.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://104.238.205.28:8989/278764_.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://104.238.205.28:8989/278566_.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://104.238.205.28:8989/278567_.m3u8
+#EXTINF:-1,FOX SPORTS
+http://104.238.205.28:8989/278766_.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://104.238.205.28:8989/278767_.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://104.238.205.28:8989/278768_.m3u8
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://104.238.205.28:8989/278599_.m3u8
+#EXTINF:-1,TYC SPORTS
+http://104.238.205.28:8989/278778_.m3u8
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://104.238.205.28:8989/278776_.m3u8
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://104.238.205.28:8989/278777_.m3u8
+#EXTINF:-1,TNT SPORTS
+http://104.238.205.28:8989/278540_.m3u8
+#EXTINF:-1,TUDN
+http://104.238.205.28:8989/278570_.m3u8
+#EXTINF:-1,TVC
+http://104.238.205.28:8989/278565_.m3u8
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://185.57.68.33/110/mpegts
+#EXTINF:-1,TELE
+http://104.238.205.28:8989/278773_.m3u8
+#EXTINF:-1,TELE 2
+http://104.238.205.28:8989/278774_.m3u8
+#EXTINF:-1,CIUDAD MAGACINE
+http://104.238.205.28:8989/278754_.m3u8
+#EXTINF:-1,UNIMAX
+http://104.238.205.28:8989/278726_.m3u8
+#EXTINF:-1,UNIVISION
+http://104.238.205.28:8989/278699_.m3u8
+#EXTINF:-1,TVY
+http://104.238.205.28:8989/278697_.m3u8
+#EXTINF:-1,DISNEY JR
+http://104.238.205.28:8989/278542_.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://104.238.205.28:8989/278539_.m3u8
+#EXTINF:-1,ADULTSWIN
+http://104.238.205.28:8989/278392_.m3u8
+#EXTINF:-1,MULTIPREMIER
+http://104.238.205.28:8989/278510_.m3u8
+#EXTINF:-1,MC
+http://104.238.205.28:8989/278509_.m3u8
+#EXTINF:-1,AZ CINEMA
+http://104.238.205.28:8989/278465_.m3u8
+#EXTINF:-1,CINECANAL
+http://104.238.205.28:8989/278462_.m3u8
+#EXTINF:-1,CINELATINO
+http://104.238.205.28:8989/278460_.m3u8
+#EXTINF:-1,D PELICULA
+http://104.238.205.28:8989/278458_.m3u8
+#EXTINF:-1,D PELICULA PLUS
+http://104.238.205.28:8989/278457_.m3u8
+#EXTINF:-1,WARNER BROSS
+http://104.238.205.28:8989/278454_.m3u8
+#EXTINF:-1,USA
+http://104.238.205.28:8989/278452_.m3u8
+#EXTINF:-1,AMC
+http://104.238.205.28:8989/278393_.m3u8
+#EXTINF:-1,A&E
+http://104.238.205.28:8989/278390_.m3u8
+#EXTINF:-1,AXN
+http://104.238.205.28:8989/278385_.m3u8
+#EXTINF:-1,CANAL 5
+http://104.238.205.28:8989/278330_.m3u8
+#EXTINF:-1,CANAL 5
+http://104.238.205.28:8989/278329_.m3u8
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,A&E HD
+http://181.78.85.53:9002/play/a047/index.m3u8
+#EXTINF:-1,AMC HD
+http://181.78.85.53:9002/play/a04l/index.m3u8
+#EXTINF:-1,AXN HD
+http://181.78.85.53:9002/play/a00n/index.m3u8
+#EXTINF:-1,Adult Swim
+http://181.78.85.53:9002/play/a00y/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://181.78.85.53:9002/play/a00k/index.m3u8
+#EXTINF:-1,CANAL CARACOL HD
+http://181.78.85.53:9002/play/a02h/index.m3u8
+#EXTINF:-1,Telepacifico
+http://181.78.85.53:9002/play/a02j/index.m3u8
+#EXTINF:-1,Tooncast
+http://181.78.85.53:9002/play/a02n/index.m3u8
+#EXTINF:-1,TyC Sports
+http://181.78.85.53:9002/play/a05j/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.78.85.53:9002/play/a01h/index.m3u8
+#EXTINF:-1,Venevision
+http://181.78.85.53:9002/play/a089/index.m3u8
+#EXTINF:-1,Venevision Plus
+http://181.78.85.53:9002/play/a03o/index.m3u8
+#EXTINF:-1,Venezolana de Televisiðn
+http://181.78.85.53:9002/play/a08d/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://181.78.85.53:9002/play/a005/index.m3u8
+#EXTINF:-1,Win Sports
+http://181.78.85.53:9002/play/a05k/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://181.78.85.53:9002/play/a003/index.m3u8
+#EXTINF:-1,#EXTINF:-1,
+
+#EXTINF:-1,TNT series
+http://181.78.14.26:8000/play/a01c
+#EXTINF:-1,SPACE
+http://181.78.14.26:8000/play/a01d
+#EXTINF:-1,TNT
+http://181.78.14.26:8000/play/a01k
+#EXTINF:-1,ESPN
+http://181.78.14.26:8000/play/a05b
+#EXTINF:-1,ESPN
+http://181.78.14.26:8000/play/a05c
+#EXTINF:-1,ESPN 2
+http://181.78.14.26:8000/play/a02p
+#EXTINF:-1,ESPN 3
+http://181.78.14.26:8000/play/a02q
+#EXTINF:-1,ESPN 4
+http://181.78.14.26:8000/play/a03w
+#EXTINF:-1,ESPN 4
+http://181.78.14.26:8000/play/a06i
+#EXTINF:-1,ESPN 5
+http://181.78.14.26:8000/play/a03x
+#EXTINF:-1,ESPN 5
+http://181.78.14.26:8000/play/a06b
+#EXTINF:-1,ESPN 6
+http://181.78.14.26:8000/play/a03y
+#EXTINF:-1,ESPN 6
+http://181.78.14.26:8000/play/a06d
+#EXTINF:-1,ESPN 7
+http://181.78.14.26:8000/play/a06e
+#EXTINF:-1, CARACOL TV 🇨🇴
+http://181.78.14.26:8000/play/a00d
+#EXTINF:-1,RCN
+http://181.78.14.26:8000/play/a02t
+#EXTINF:-1,RCN2
+http://181.78.14.26:8000/play/a07m
+#EXTINF:-1,UNIVERSAL TV
+http://181.78.14.26:8000/play/a03f
+#EXTINF:-1,CINE PREMIUM
+http://181.78.14.26:8000/play/a03k
+#EXTINF:-1,CINE Fmiliar
+http://181.78.14.26:8000/play/a03l
+#EXTINF:-1,DHE
+http://181.78.14.26:8000/play/a03o
+#EXTINF:-1,CINECANAL
+http://181.78.14.26:8000/play/a04f
+#EXTINF:-1,CINECANAL
+http://181.78.14.26:8000/play/a06a
+#EXTINF:-1,STAR CHANNEL
+http://181.78.14.26:8000/play/a06g
+#EXTINF:-1,TCM
+http://181.78.14.26:8000/play/a04d
+#EXTINF:-1,FX
+http://181.78.14.26:8000/play/a04h
+#EXTINF:-1,FX
+http://181.78.14.26:8000/play/a06c
+#EXTINF:-1,NATIONAL GEAGRAPHIF
+http://181.78.14.26:8000/play/a04p
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,HBO
+http://38.211.242.128:8001/play/a09a/index.m3u8
+#EXTINF:-1,HBO 2
+http://38.211.242.128:8001/play/a09d/index.m3u8
+#EXTINF:-1,HBO Family
+http://38.211.242.128:8001/play/a08m/index.m3u8
+#EXTINF:-1,Movistar Deportes
+http://38.211.242.128:8001/play/a09i/index.m3u8
+#EXTINF:-1,GOLPERU
+http://38.211.242.128:8001/play/a09j/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://38.211.242.128:8001/play/a09k/index.m3u8
+#EXTINF:-1,NO LO SE
+http://38.211.242.128:8001/play/a09r/index.m3u8
+#EXTINF:-1,TYC
+http://38.211.242.128:8001/play/a09t/index.m3u8
+#EXTINF:-1,CINECANAL
+http://38.211.242.128:8001/play/a08i/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://38.211.242.128:8001/play/a08n/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.211.242.128:8001/play/a08y/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+http://38.211.242.128:8001/play/a07g/index.m3u8
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1, ESPN premium
+http://181.188.216.5:18000/play/a0fe/index.m3u8
+#EXTINF:-1, ESPN premium
+http://181.188.216.5:18000/play/a0lq/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN" tvg-logo="https://epg.iptvx.one/picons/espn-us.png"group-title="💢DEPORTES💢",💢|➾ESPN
+http://181.188.216.5:18000/play/a0fb/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN 2" tvg-logo="https://epg.iptvx.one/picons/espn2-nl.png"group-title="💢DEPORTES💢",💢|➾ESPN 2
+http://181.188.216.5:18000/play/a0oz/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN 3" tvg-logo="https://epg.iptvx.one/picons/espn3-nl.png"group-title="💢DEPORTES💢",💢|➾ESPN 3
+http://181.188.216.5:18000/play/a0dm/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN 4" tvg-logo="https://epg.iptvx.one/picons/espn4-nl.png"group-title="💢DEPORTES💢",💢|➾ESPN 4
+http://181.188.216.5:18000/play/a0am/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN 5" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png"group-title="💢DEPORTES💢",💢|➾ESPN 5
+http://181.188.216.5:18000/play/a0gl/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN 6" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png"group-title="💢DEPORTES💢",💢|➾ESPN 6
+http://181.188.216.5:18000/play/a0dn/index.m3u8
+#EXTINF:-1tvg-name="💢ESPN 7" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png"group-title="💢DEPORTES💢",💢|➾ESPN 7
+http://181.188.216.5:18000/play/a0i6/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.188.216.5:18000/play/a0dk/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.188.216.5:18000/play/a0dl/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://181.188.216.5:18000/play/a0dm/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://181.188.216.5:18000/play/a0pf/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://181.188.216.5:18000/play/a0oa/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://181.188.216.5:18000/play/a0dn/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://181.188.216.5:18000/play/a0pg/index.m3u8
+#EXTINF:-1,ESPN co HD
+http://181.188.216.5:18000/play/a0pe/index.m3u8
+#EXTINF:-1,ESPN co
+http://181.188.216.5:18000/play/a0ek/index.m3u8
+#EXTINF:-1,ESPN co
+http://181.188.216.5:18000/play/a0nv/index.m3u8
+#EXTINF:-1,ESPN
+http://181.188.216.5:18000/play/a0ou/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.188.216.5:18000/play/a0gn/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.188.216.5:18000/play/a0lo/index.m3u8
+#EXTINF:-1,ESPN HD
+http://181.188.216.5:18000/play/a0il/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.188.216.5:18000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="🏵️PREMIUM🏵️" tvg-logo="https://i.postimg.cc/nLL8pNXQ/Espn-3-esp.png",🏵️|➾ESPN 3 HD
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="🏵️PREMIUM🏵️" tvg-logo="https://i.postimg.cc/nLL8pNXQ/Espn-3-esp.png",🏵️|➾ESPN 3
+http://181.188.216.5:18000/play/a0bg/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.188.216.5:18000/play/a0of/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.188.216.5:18000/play/a0bh/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.188.216.5:18000/play/a0gl/index.m3u8
+#EXTINF:-1,GOLTV
+http://181.188.216.5:18000/play/a0mj/index.m3u8
+#EXTINF:-1,TNT SPORTS
+http://181.188.216.5:18000/play/a0qy/index.m3u8
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://181.188.216.5:18000/play/a0ik/index.m3u8
+#EXTINF:-1,CDN DEPORTES
+http://181.188.216.5:18000/play/a0ax/index.m3u8
+#EXTINF:-1,HBO
+http://181.188.216.5:18000/play/a0hm/index.m3u8
+#EXTINF:-1,HBO
+http://181.188.216.5:18000/play/a0ee/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://181.188.216.5:18000/play/a0lr/index.m3u8
+#EXTINF:-1,HBO POP
+http://181.188.216.5:18000/play/a0im/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://181.188.216.5:18000/play/a0md/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://181.188.216.5:18000/play/a0mc/index.m3u8
+#EXTINF:-1,SPACE
+http://181.188.216.5:18000/play/a0os/index.m3u8
+#EXTINF:-1,SPACE
+http://181.188.216.5:18000/play/a0pl/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.188.216.5:18000/play/a0cl/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.188.216.5:18000/play/a0pm/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.188.216.5:18000/play/a0gb/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.188.216.5:18000/play/a0gk/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.188.216.5:18000/play/a0ow/index.m3u8
+#EXTINF:-1,WARNER BROS
+http://181.188.216.5:18000/play/a0cm/index.m3u8
+#EXTINF:-1,WARNER BROS
+http://181.188.216.5:18000/play/a0po/index.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://181.188.216.5:18000/play/a0cn/index.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://181.188.216.5:18000/play/a0pk/index.m3u8
+#EXTINF:-1,CINECANAL
+http://181.188.216.5:18000/play/a0co/index.m3u8
+#EXTINF:-1,CINECANAL
+http://181.188.216.5:18000/play/a0pb/index.m3u8
+#EXTINF:-1,AMC
+http://181.188.216.5:18000/play/a0cw/index.m3u8
+#EXTINF:-1,TNT
+http://181.188.216.5:18000/play/a0pn/index.m3u8
+#EXTINF:-1,TNT
+http://181.188.216.5:18000/play/a0bm/index.m3u8
+#EXTINF:-1,TNT
+http://181.188.216.5:18000/play/a0ad/index.m3u8
+#EXTINF:-1,AXN
+http://181.188.216.5:18000/play/a0pa/index.m3u8
+#EXTINF:-1,AXN
+http://181.188.216.5:18000/play/a0ac/index.m3u8
+#EXTINF:-1,GOLDEN
+http://181.188.216.5:18000/play/a0bn/index.m3u8
+#EXTINF:-1,FX
+http://181.188.216.5:18000/play/a0ba/index.m3u8
+#EXTINF:-1,FX
+http://181.188.216.5:18000/play/a0ph/index.m3u8
+#EXTINF:-1,FX
+http://181.188.216.5:18000/play/a0cy/index.m3u8
+#EXTINF:-1,FX
+http://181.188.216.5:18000/play/a0gm/index.m3u8
+#EXTINF:-1,AMC
+http://181.188.216.5:18000/play/a0ae/index.m3u8
+#EXTINF:-1,TCM
+http://181.188.216.5:18000/play/a0bo/index.m3u8
+#EXTINF:-1,MC
+http://181.188.216.5:18000/play/a0bp/index.m3u8
+#EXTINF:-1,UNIVERSAL
+http://181.188.216.5:18000/play/a0cr/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://181.188.216.5:18000/play/a0de/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE 2
+http://181.188.216.5:18000/play/a0df/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://181.188.216.5:18000/play/a0di/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA
+http://181.188.216.5:18000/play/a0dw/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME
+http://181.188.216.5:18000/play/a0dh/index.m3u8
+#EXTINF:-1,CINEMAX
+http://181.188.216.5:18000/play/a0lf/index.m3u8
+#EXTINF:-1,CINEMAX
+http://181.188.216.5:18000/play/a0ed/index.m3u8
+#EXTINF:-1,PARAMOUMT
+http://181.188.216.5:18000/play/a0dp/index.m3u8
+#EXTINF:-1,COMEDIA CENTRAL
+http://181.188.216.5:18000/play/a0db/index.m3u8
+#EXTINF:-1,COMEDIA CENTRAL
+http://181.188.216.5:18000/play/a0ha/index.m3u8
+#EXTINF:-1,TNT Series
+http://181.188.216.5:18000/play/a0ob/index.m3u8
+#EXTINF:-1,TNT Series
+http://181.188.216.5:18000/play/a0dq/index.m3u8
+#EXTINF:-1,TNT series
+http://181.188.216.5:18000/play/a0fa/index.m3u8
+#EXTINF:-1,TNT novelas
+http://181.188.216.5:18000/play/a0oe/index.m3u8
+#EXTINF:-1,CLOVER channel
+http://181.188.216.5:18000/play/a0eu/index.m3u8
+#EXTINF:-1,CANAL 6
+http://181.188.216.5:18000/play/a0ar/index.m3u8
+#EXTINF:-1,CANAL 13
+http://181.188.216.5:18000/play/a0ap/index.m3u8
+#EXTINF:-1,CANAL 4
+http://181.188.216.5:18000/play/a0bx/index.m3u8
+#EXTINF:-1,CANAL 6
+http://181.188.216.5:18000/play/a0az/index.m3u8
+#EXTINF:-1,TELETICA 7
+http://181.188.216.5:18000/play/a0cp/index.m3u8
+#EXTINF:-1,SURTV
+http://181.188.216.5:18000/play/a0nx/index.m3u8
+#EXTINF:-1,CANAL 7
+http://181.188.216.5:18000/play/a0bv/index.m3u8
+#EXTINF:-1,FILM & ARTS
+http://181.188.216.5:18000/play/a0js/index.m3u8
+#EXTINF:-1,USA
+http://181.188.216.5:18000/play/a0qz/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIP
+http://181.188.216.5:18000/play/a0do/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://181.188.216.5:18000/play/a0dr/index.m3u8
+#EXTINF:-1,HISTORY
+http://181.188.216.5:18000/play/a0oj/index.m3u8
+#EXTINF:-1,HISTORY 2
+http://181.188.216.5:18000/play/a0jj/index.m3u8
+#EXTINF:-1,ID
+http://181.188.216.5:18000/play/a0pj/index.m3u8
+#EXTINF:-1,RCN
+http://181.188.216.5:18000/play/a0fc/index.m3u8
+#EXTINF:-1,RCN
+http://181.188.216.5:18000/play/a0jo/index.m3u8
+#EXTINF:-1,RCN
+http://181.188.216.5:18000/play/a0nn/index.m3u8
+#EXTINF:-1,CARACOL
+http://181.188.216.5:18000/play/a0fd/index.m3u8
+#EXTINF:-1,TVN
+http://181.188.216.5:18000/play/a0ih/index.m3u8
+#EXTINF:-1,CIV
+http://181.188.216.5:18000/play/a0ii/index.m3u8
+#EXTINF:-1,ECUAVISA
+http://181.188.216.5:18000/play/a0ls/index.m3u8
+#EXTINF:-1,ECUAVISA
+http://181.188.216.5:18000/play/a0kg/index.m3u8
+#EXTINF:-1,TELEAMAZONAS
+http://181.188.216.5:18000/play/a0kh/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+http://181.188.216.5:18000/play/a0lp/index.m3u8
+#EXTINF:-1,TELERED
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/2571.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://181.188.216.5:18000/play/a0gj/index.m3u8
+#EXTINF:-1,CARTOON NETWOORK
+http://181.188.216.5:18000/play/a0kp/index.m3u8
+#EXTINF:-1,CARTOON NETWOORK
+http://181.188.216.5:18000/play/a0pp/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://181.188.216.5:18000/play/a0pd/index.m3u8
+#EXTINF:-1,DISNEY JR
+http://181.188.216.5:18000/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="💢REPUBLICA D.💢" tvg-logo="https://i.postimg.cc/QNFhKj4V/TV-CANAL-SUR.png",💢|➾TV CANAL SUR
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+#EXTINF:-1 group-title="💢MEXICO💢" tvg-logo="https://i.postimg.cc/jdrhgx1H/LAS-ESTRELLAS.png",💢|➾LAS ESTRELLAS 2.1
+http://181.78.106.127:9000/play/ca011/index.m3u8
+#EXTINF:-1,CUIDADO
+http://181.188.216.5:18000/play/a0me/index.m3u8
+#EXTINF:-1,CUIDADO 2
+http://181.78.85.53:9002/play/a01d/index.m3u8
+#EXTINF:-1,CUIDADO 3
+http://185.236.230.212:9982/play/a090
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1,HBO
+http://190.102.246.93:9005/play/a01a
+#EXTINF:-1,HBO
+http://190.102.246.93:9005/play/a04l
+#EXTINF:-1,HBO FAILY
+http://190.102.246.93:9005/play/a01g
+#EXTINF:-1,HBO POP
+http://190.102.246.93:9005/play/a05b
+#EXTINF:-1,AMC
+http://190.102.246.93:9005/play/a04o
+#EXTINF:-1,STAR CHANNEL
+http://190.102.246.93:9005/play/a01n
+#EXTINF:-1,FX
+http://190.102.246.93:9005/play/a01v
+#EXTINF:-1,CINEMAX
+http://190.102.246.93:9005/play/a02q
+#EXTINF:-1,CINECANAL
+http://190.102.246.93:9005/play/a04d
+#EXTINF:-1,WARNER HD
+http://190.102.246.93:9005/play/a04f
+#EXTINF:-1,MX
+http://190.102.246.93:9005/play/a03t
+#EXTINF:-1,MX Clasic
+http://190.102.246.93:9005/play/a03h
+#EXTINF:-1,MX Family
+http://190.102.246.93:9005/play/a03i
+#EXTINF:-1,UNIVERSAL TV
+http://190.102.246.93:9005/play/a01o
+#EXTINF:-1,UNIVERSAL TV
+http://190.102.246.93:9005/play/a03r
+#EXTINF:-1,TNT
+http://190.102.246.93:9005/play/a05p
+#EXTINF:-1,TCM
+http://190.102.246.93:9005/play/a03p
+#EXTINF:-1,TNT series
+http://190.102.246.93:9005/play/a01u
+#EXTINF:-1,PARAMOUMT
+http://190.102.246.93:9005/play/a02r
+#EXTINF:-1,AZ CINEMA
+http://190.102.246.93:9005/play/a02v
+#EXTINF:-1,ESPN
+http://190.102.246.93:9005/play/a02d
+#EXTINF:-1,ESPN
+http://190.102.246.93:9005/play/a04w
+#EXTINF:-1,ESPN
+http://190.102.246.93:9005/play/a01w
+#EXTINF:-1,ESPN 2
+http://190.102.246.93:9005/play/a05a
+#EXTINF:-1,ESPN 2
+http://190.102.246.93:9005/play/a05c
+#EXTINF:-1,ESPN 4
+http://190.102.246.93:9005/play/a04j
+#EXTINF:-1,ESPN 4
+http://190.102.246.93:9005/play/a05o
+#EXTINF:-1,ESPN 5
+http://190.102.246.93:9005/play/a01q
+#EXTINF:-1,ESPN 6
+http://190.102.246.93:9005/play/a01r
+#EXTINF:-1,SPORTS X ext
+http://190.102.246.93:9005/play/a03k
+#EXTINF:-1,CARTOON NETWOOK
+http://190.102.246.93:9005/play/a01c
+#EXTINF:-1,CANAL 13
+http://190.102.246.93:9005/play/a05v
+
+#EXTINF:-1,
+#EXTINF:-1,TVN CH
+http://190.60.37.118:4000/play/a00j
+#EXTINF:-1,HBO XTREME
+http://190.60.37.118:4000/play/a03z
+#EXTINF:-1,WARNER
+http://190.60.37.118:4000/play/a04g
+#EXTINF:-1,TNT
+http://190.60.37.118:4000/play/a02w
+#EXTINF:-1,PARAMOUMT
+http://190.60.37.118:4000/play/a01a
+#EXTINF:-1,SONY
+http://190.60.37.118:4000/play/a03c
+#EXTINF:-1,AXN
+http://190.60.37.118:4000/play/a03d
+#EXTINF:-1,STAR CHANNEL
+http://190.60.37.118:4000/play/a03j
+#EXTINF:-1,DHE
+http://190.60.37.118:4000/play/a02d
+#EXTINF:-1,DISNEY CHANNEL
+http://190.60.37.118:4000/play/a02f
+#EXTINF:-1,TNT PREMIUM
+http://190.60.37.118:4000/play/a02n
+#EXTINF:-1,WIN SPORTS
+http://190.60.37.118:4000/play/a03i
+
+#EXTINF:-1,#EXTINF:-1,
+
+#EXTINF:-1,HBO
+http://190.102.149.68:1234/play/a1bu/index.m3u8
+#EXTINF:-1,HBO 2
+http://190.102.149.68:1234/play/a1bq/index.m3u8
+#EXTINF:-1,HBO PLUS
+http://190.102.149.68:1234/play/a1bw/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://190.102.149.68:1234/play/a1bt/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://190.102.149.68:1234/play/a1bs/index.m3u8
+#EXTINF:-1,DREAMWORDK
+http://190.102.149.68:1234/play/a1ab/index.m3u8
+#EXTINF:-1,D PELICULA
+http://190.102.149.68:1234/play/a1af/index.m3u8
+#EXTINF:-1,GOLDEN HD
+http://190.102.149.68:1234/play/a1ah/index.m3u8
+#EXTINF:-1,CINE PREMIUM
+http://190.102.149.68:1234/play/a1bb/index.m3u8
+#EXTINF:-1,CINE HISPANO
+http://190.102.149.68:1234/play/a1ba/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.102.149.68:1234/play/a1bm/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.102.149.68:1234/play/a1bn/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.102.149.68:1234/play/a1bo/index.m3u8
+#EXTINF:-1,DS SPORTS
+http://190.102.149.68:1234/play/a1as/index.m3u8
+#EXTINF:-1,DS SPORTS
+http://190.102.149.68:1234/play/a1ax/index.m3u8
+#EXTINF:-1,CLARO SPORTS
+http://190.102.149.68:1234/play/a1av/index.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES
+http://190.102.149.68:1234/play/a1aw/index.m3u8
+#EXTINF:-1,NEOX
+http://185.189.225.157/neox/index.m3u8
+#EXTINF:-1,TU UNIVERSO
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+
+#EXTINF:-1,
+#EXTINF:-1,HBO FAMILY
+http://38.180.133.31:8000/play/a14j/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.180.133.31:8000/play/a14e/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://38.180.133.31:8000/play/a14a/index.m3u8
+#EXTINF:-1,TYC
+http://38.180.133.31:8000/play/a11t/index.m3u8
+#EXTINF:-1,USA
+http://38.180.133.31:8000/play/a13p/index.m3u8
+#EXTINF:-1,TELEAMAZONAS
+http://38.180.133.31:8000/play/a13r/index.m3u8
+#EXTINF:-1,GOLDEN HD
+http://38.180.133.31:8000/play/a13u/index.m3u8
+#EXTINF:-1,GOLDEN HD
+http://38.180.133.31:8000/play/a13x/index.m3u8
+#EXTINF:-1,GOLDEN edge
+http://38.180.133.31:8000/play/a13w/index.m3u8
+#EXTINF:-1,TCM
+http://38.180.133.31:8000/play/a13y/index.m3u8
+#EXTINF:-1,D PELICULA
+http://38.180.133.31:8000/play/a13z/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,GOLDEN PREMIER 2
+http://45.71.254.1:8000/play/a0a7/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://45.71.254.1:8000/play/a0d8/index.m3u8
+#EXTINF:-1,WARNER
+http://45.71.254.1:8000/play/a0d9/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://45.71.254.1:8000/play/a0e4/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://45.71.254.1:8000/play/a0e1/index.m3u8
+#EXTINF:-1,TD+ HD cr
+http://45.71.254.1:8000/play/a0a2/index.m3u8
+#EXTINF:-1,TD+ 2 HD cr
+http://45.71.254.1:8000/play/a0a3/index.m3u8
+#EXTINF:-1,FUTV
+http://45.71.254.1:8000/play/a0e5/index.m3u8
+#EXTINF:-1,TIGO GT
+http://45.71.254.1:8000/play/a0a5/index.m3u8
+#EXTINF:-1,GUATEVISION
+http://45.71.254.1:8000/play/a0a8/index.m3u8
+#EXTINF:-1, ESPN
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1, ESPN
+http://45.71.254.1:8000/play/a0d5/index.m3u8
+#EXTINF:-1, ESPN 2
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+#EXTINF:-1, ESPN 2
+http://45.71.254.1:8000/play/a0d6/index.m3u8
+#EXTINF:-1, ESPN 3
+http://45.71.254.1:8000/play/a0c4/index.m3u8
+#EXTINF:-1, ESPN 3
+http://45.71.254.1:8000/play/a0e8/index.m3u8
+#EXTINF:-1, ESPN 4 HD
+http://45.71.254.1:8000/play/a0b8/index.m3u8
+#EXTINF:-1, ESPN 4 
+http://45.71.254.1:8000/play/a0c5/index.m3u8
+#EXTINF:-1, ESPN 6
+http://45.71.254.1:8000/play/a0e9/index.m3u8
+#EXTINF:-1,LAS
+http://45.71.254.1:8000/play/a0c7/index.m3u8
+#EXTINF:-1, AYM SPORT
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,FXHD
+http://179.51.136.19:8000/play/a1a9/index.m3u8
+#EXTINF:-1,TNT Series
+http://179.51.136.19:8000/play/a1a3/index.m3u8
+#EXTINF:-1,HISTORY
+http://179.51.136.19:8000/play/a1a4/index.m3u8
+#EXTINF:-1,ESPN PREMIUM
+http://179.51.136.19:8000/play/a1ar/index.m3u8
+#EXTINF:-1,ESPN
+http://179.51.136.19:8000/play/a1a8/index.m3u8
+#EXTINF:-1,ESPN 2
+http://179.51.136.19:8000/play/a1a7/index.m3u8
+#EXTINF:-1,ESPN 4
+http://179.51.136.19:8000/play/a1a5/index.m3u8
+#EXTINF:-1,ESPN 5
+http://179.51.136.19:8000/play/a1a6/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,HBO
+http://181.189.244.253:8000/play/a018/index.m3u8
+#EXTINF:-1,HBO 2
+http://181.189.244.253:8000/play/a019/index.m3u8
+#EXTINF:-1,HBO Plus
+http://181.189.244.253:8000/play/a01a/index.m3u8
+#EXTINF:-1,HBO Plus
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1,HBO XTREME 
+http://181.189.244.253:8000/play/a01c/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://181.189.244.253:8000/play/a01b/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.78.106.127:9000/play/ca068/index.m3u8
+#EXTINF:-1,SPACE
+http://181.78.106.127:9000/play/ca072/index.m3u8
+#EXTINF:-1,GOLDEN
+http://181.78.106.127:9000/play/ca076/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,CINEMAX
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1,MULTIPREMIER
+http://181.78.106.127:9000/play/ca087/index.m3u8
+#EXTINF:-1,AMC
+http://181.78.106.127:9000/play/ca080/index.m3u8
+#EXTINF:-1,TNT
+http://181.78.106.127:9000/play/ca077/index.m3u8
+#EXTINF:-1,AXN
+http://181.78.106.127:9000/play/ca085/index.m3u8
+#EXTINF:-1,D PELICULA
+http://181.78.106.127:9000/play/ca073/index.m3u8
+#EXTINF:-1,TCM
+http://181.78.106.127:9000/play/ca074/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA
+http://181.78.106.127:9000/play/ca083/index.m3u8
+#EXTINF:-1,MULTICANAL
+http://181.78.106.127:9000/play/ca096/index.m3u8
+#EXTINF:-1,CINECANAL
+http://181.78.106.127:9000/play/ca095/index.m3u8
+#EXTINF:-1,PARAMOUMT
+http://181.78.106.127:9000/play/ca082/index.m3u8
+#EXTINF:-1,PARAMOUMT
+http://181.78.106.127:9000/play/ca082/index.m3u8
+#EXTINF:-1,COMEDIA CENTRAL
+http://181.78.106.127:9000/play/ca050/index.m3u8
+#EXTINF:-1,CLARO CINEMA
+http://181.78.106.127:9000/play/ca084/index.m3u8
+#EXTINF:-1,CANAL 3
+http://181.78.106.127:9000/play/ca010/index.m3u8
+#EXTINF:-1,CANAL 4
+http://181.78.106.127:9000/play/ca092/index.m3u8
+#EXTINF:-1,CANAL 5 mx
+http://181.78.106.127:9000/play/ca012/index.m3u8
+#EXTINF:-1,CANAL 7 mx
+http://181.78.106.127:9000/play/ca023/index.m3u8
+#EXTINF:-1,CANAL 7
+http://181.78.106.127:9000/play/ca007/index.m3u8
+#EXTINF:-1,CANAL 10
+http://181.78.106.127:9000/play/ca094/index.m3u8
+#EXTINF:-1,CANAL 11
+http://181.78.106.127:9000/play/ca003/index.m3u8
+#EXTINF:-1,CANAL 13
+http://181.78.106.127:9000/play/ca008/index.m3u8
+#EXTINF:-1,CANAL 5 ar
+http://181.78.106.127:9000/play/ca005/index.m3u8
+#EXTINF:-1,GLOBO
+http://181.78.106.127:9000/play/ca089/index.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://181.78.106.127:9000/play/ca014/index.m3u8
+#EXTINF:-1,TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1,TUDN
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1,DS SPORTS
+http://181.78.106.127:9000/play/ca026/index.m3u8
+#EXTINF:-1,GOLTV
+http://181.78.106.127:9000/play/ca041/index.m3u8
+#EXTINF:-1,BEIN SPORTS Ñ
+http://181.78.106.127:9000/play/ca039/index.m3u8
+#EXTINF:-1,MOVISTAR LA LIG
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1,ESPN mx
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.78.106.127:9000/play/ca035/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://181.119.85.222:8000/play/a02a/index.m3u8
+#EXTINF:-1,TIGO SPORTS
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1,CLARO SPORTS 2
+http://181.78.106.127:9000/play/ca037/index.m3u8
+#EXTINF:-1,DREAMWORD
+http://181.78.106.127:9000/play/ca054/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,CINEMAX
+http://181.119.85.222:8000/play/a03r/index.m3u8
+#EXTINF:-1,SPACE
+http://181.119.85.222:8000/play/a03y/index.m3u8
+#EXTINF:-1,MULTICANAL
+http://181.119.85.222:8000/play/a01w/index.m3u8
+#EXTINF:-1,WARNER
+http://181.119.85.222:8000/play/a04g/index.m3u8
+#EXTINF:-1,TCM
+http://181.119.85.222:8000/play/a03z/index.m3u8
+#EXTINF:-1,AXN
+http://181.119.85.222:8000/play/a01y/index.m3u8
+#EXTINF:-1,SONY MOVIES
+http://181.119.85.222:8000/play/a02b/index.m3u8
+#EXTINF:-1,UNIVERSAL TV
+http://181.119.85.222:8000/play/a01x/index.m3u8
+#EXTINF:-1,FMH KISDS
+http://181.119.85.222:8000/play/a03a/index.m3u8
+#EXTINF:-1,FMH MOVIES
+http://181.119.85.222:8000/play/a03b/index.m3u8
+#EXTINF:-1,FMH FAMILY
+http://181.119.85.222:8000/play/a03e/index.m3u8
+#EXTINF:-1,REWIND
+http://181.119.85.222:8000/play/a03f/index.m3u8
+#EXTINF:-1,IN
+http://181.119.85.222:8000/play/a03c/index.m3u8
+#EXTINF:-1,ATLAS
+http://181.119.85.222:8000/play/a03d/index.m3u8
+#EXTINF:-1,CARACOL
+http://181.119.85.222:8000/play/a02z/index.m3u8
+#EXTINF:-1,CARACOL
+http://181.119.85.222:8000/play/a02p/index.m3u8
+#EXTINF:-1,CARACOL
+http://181.119.85.222:8000/play/a02t/index.m3u8
+#EXTINF:-1,RCN
+http://181.119.85.222:8000/play/a02u/index.m3u8
+#EXTINF:-1,BITME
+http://181.119.85.222:8000/play/a03j/index.m3u8
+#EXTINF:-1,CITY TV
+http://181.119.85.222:8000/play/a03l/index.m3u8
+#EXTINF:-1,CINEMA AZTECA
+http://181.119.85.222:8000/play/a04b/index.m3u8
+#EXTINF:-1,AZTECA DEPORTES
+http://181.119.85.222:8000/play/a04e/index.m3u8
+#EXTINF:-1,ESPN
+http://181.119.85.222:8000/play/a01q/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.119.85.222:8000/play/a02a/index.m3u8
+#EXTINF:-1,ESPN 6
+http://181.119.85.222:8000/play/a01s/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,AXN
+http://181.119.86.68:8000/play/c016/index.m3u8
+#EXTINF:-1,FXHD
+http://181.119.86.68:8000/play/c006/index.m3u8
+#EXTINF:-1,FMH MUVIES
+http://181.119.86.68:8000/play/c018/index.m3u8
+#EXTINF:-1,SONY
+http://181.119.86.68:8000/play/c023/index.m3u8
+#EXTINF:-1,UNIVERSAL
+http://181.119.86.68:8000/play/c026/index.m3u8
+#EXTINF:-1,BITME
+http://181.119.86.68:8000/play/c027/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.119.86.68:8000/play/c015/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,HBO 2
+http://138.0.228.250:44380/play/a00d/index.m3u8
+#EXTINF:-1,SPACE
+http://138.0.228.250:44380/play/a00f/index.m3u8
+#EXTINF:-1,GOLDEN HD
+http://138.0.228.250:44380/play/a00g/index.m3u8
+#EXTINF:-1,GOLDEN
+http://138.0.228.250:44380/play/a02p/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://138.0.228.250:44380/play/a02k/index.m3u8
+#EXTINF:-1,SONY MUVIES
+http://138.0.228.250:44380/play/a02g/index.m3u8
+#EXTINF:-1,SONY
+http://138.0.228.250:44380/play/a02h/index.m3u8
+#EXTINF:-1,AXN
+http://138.0.228.250:44380/play/a02i/index.m3u8
+#EXTINF:-1,D PELICULA 
+http://138.0.228.250:44380/play/a02m/index.m3u8
+#EXTINF:-1,canal 5 mx
+http://138.0.228.250:44380/play/a00k/index.m3u8
+#EXTINF:-1,canal 7 MX
+http://138.0.228.250:44380/play/a00l/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://138.0.228.250:44380/play/a00e/index.m3u8
+#EXTINF:-1,UNIVERSAL TV
+http://138.0.228.250:44380/play/a02w/index.m3u8
+#EXTINF:-1,USA
+http://138.0.228.250:44380/play/a02x/index.m3u8
+#EXTINF:-1,ESPN 2
+http://138.0.228.250:44380/play/a00p/index.m3u8
+#EXTINF:-1,ESPN 3
+http://138.0.228.250:44380/play/a00q/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://138.0.228.250:44380/play/a01y/index.m3u8
+#EXTINF:-1,TUDN
+http://138.0.228.250:44380/play/a01g/index.m3u8
+#EXTINF:-1,TUDN
+http://138.0.228.250:44380/play/a02u/index.m3u8
+#EXTINF:-1,AZTECA DEPORTES
+http://138.0.228.250:44380/play/a01x/index.m3u8
+#EXTINF:-1,DEPORTES TVC
+http://138.0.228.250:44380/play/a01t/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://138.0.228.250:44380/play/a01o/index.m3u8
+#EXTINF:-1,HISTORY
+http://138.0.228.250:44380/play/a02f/index.m3u8
+#EXTINF:-1,H2
+http://138.0.228.250:44380/play/a02c/index.m3u8
+
+
+#EXTINF:-1,
+#EXTINF:-1,HBO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158555/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO Plus
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/165465/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SPACE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158793/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Multicinema
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278509/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Multipremier
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278510/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLDEN PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278584/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Golden Plus
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158783/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Golden Edge
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278480/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Golden Premier
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278486/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Golden Premier
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158784/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Golden Premier
+http://200.125.170.122:8000/play/a00l
+#EXTINF:-1,Golden Premiere 2
+http://200.125.170.121:8000/play/a00m
+#EXTINF:-1,AMC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158670/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Warner
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/165455/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,STAR CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158692/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AZTECA DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278576/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158696/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285409/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285410/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285411/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285412/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285413/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 6
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285414/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 7
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285415/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 8
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285416/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 9
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285417/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 10
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285418/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 11
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285419/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SKY Premiere 12
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285421/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix Adventure
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168568/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168559/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168566/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 2 Kids
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168567/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168569/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168570/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168562/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 6
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168563/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 7
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168564/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Netflix 8
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168565/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Canal 5 del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,CARTOON NETWORK
+http://181.119.85.222:8000/play/a006/index.m3u8
+#EXTINF:-1,Claro Sports
+http://179.51.136.19:8000/play/a18m/index.m3u8
+#EXTINF:-1,ESPN co
+http://fortv.cc:8080/90820916/64752029/86765
+#EXTINF:-1,DSPORTS
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1,DSPORTS 2
+http://179.51.136.19:8000/play/a112/index.m3u8
+#EXTINF:-1,AYM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158797/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Gol
+http://179.51.136.19:8000/play/a1gz/index.m3u8
+#EXTINF:-1,RCN
+http://fortv.cc:8080/90820916/64752029/78716
+#EXTINF:-1,SENAL COLOMBIA
+http://fortv.cc:8080/90820916/64752029/78711
+#EXTINF:-1,SENAL COLOMBIA
+http://45.176.193.222:2405/play/a05k
+#EXTINF:-1,LA RED
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278983/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Telepacifico
+http://fortv.cc:8080/90820916/64752029/78729
+#EXTINF:-1,TVN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278993/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1,FAV TV
+https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
+#EXTINF:-1,Televisión Metrópolis 19.1
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1,AMERICA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278899/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1,TVN HD
+http://179.51.136.19:8000/play/a1ab/index.m3u8
+#EXTINF:-1,la 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278840/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278842/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ANTENA 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278812/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CUATRO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278808/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TELE 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278855/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA SEXTA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278861/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PARAMOUNT
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278859/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ENERGY
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278809/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DIVINITY
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278832/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,BEMAD
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278807/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MEGA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278846/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DMAX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278833/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEOX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278853/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NOVA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278865/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,COSMO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278821/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FACTORIA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278836/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8u
+#EXTINF:-1,TELE DEPORTE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278856/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Win Sport+
+http://fortv.cc:8080/90820916/64752029/78717
+#EXTINF:-1,TNT NOVELAS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278508/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT NOVELAS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278502/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SERIES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278543/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SONY CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278504/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CINE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278539/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Deelicula ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278458/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,D PELICULA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278557/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,D PELICULA PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278558/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,D PELICULA PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158781/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,Deeliculalus ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278470/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,VOLVER
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278780/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CANAL 5 EL LIDER
+http://138.0.228.250:44380/play/a002/index.m3u8
+#EXTINF:-1,CANAL 7 mx
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158616/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CANAL 7 noticias
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158617/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CANAL 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278880/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DISNEY CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158663/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SPORTS LIVE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158823/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SPORTS LIVE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158825/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN usa
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158826/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DS SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278892/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS HD 
+http://179.51.136.19:8000/play/a0px/index.m3u8
+#EXTINF:-1,TNT SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278989/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278776/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278991/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158834/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158831/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158832/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278977/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278978/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278765/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278762/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278763/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278764/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278979/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278358/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278980/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TyC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278779/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TyC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278778/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278981/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278766/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278767/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278768/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158836/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158837/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158838/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158834/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278366/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NFL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158840/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NFL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158841/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NBA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158843/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NHL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158844/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278952/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TSN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278955/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TSN 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278956/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TSN 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278957/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TSN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278958/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TSN 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278959/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TUDN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158848/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,WAPA DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278885/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TVC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158850/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TUDN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158848/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CLARO SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278356/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158889/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278915/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278916/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278917/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SPORTV 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278944/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278939/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278934/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278935/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278936/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278937/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278938/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278940/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278941/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1,
+#EXTINF:-1,HBO 2
+http://179.51.136.19:8000/play/a1iq/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://179.51.136.19:8000/play/a1bz/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://179.51.136.19:8000/play/a1by/index.m3u8
+#EXTINF:-1,TNT
+http://179.51.136.19:8000/play/a1af/index.m3u8
+#EXTINF:-1,PARAMOUNT
+http://179.51.136.19:8000/play/a1am/index.m3u8
+#EXTINF:-1,SONY
+http://179.51.136.19:8000/play/a1aa/index.m3u8
+#EXTINF:-1,SONY
+http://179.51.136.19:8000/play/a1bq/index.m3u8
+#EXTINF:-1,AXN
+http://179.51.136.19:8000/play/a1br/index.m3u8
+#EXTINF:-1,TNT SERIES
+http://179.51.136.19:8000/play/a1al/index.m3u8
+#EXTINF:-1,COMEDIA CENTRAL
+http://179.51.136.19:8000/play/a1bt/index.m3u8
+#EXTINF:-1,CARACOL
+http://179.51.136.19:8000/play/a1ap/index.m3u8
+#EXTINF:-1,RCN
+http://179.51.136.19:8000/play/a1ao/index.m3u8
+#EXTINF:-1,WIN SPORTS
+http://179.51.136.19:8000/play/a1it/index.m3u8
+#EXTINF:-1,WIN SPORTS +
+http://179.51.136.19:8000/play/a1bp/index.m3u8
+#EXTINF:-1,Win Sport+
+http://fortv.cc:8080/90820916/64752029/78717
+#EXTINF:-1,TNT sports premium
+http://179.51.136.19:8000/play/a1im/index.m3u8
+#EXTINF:-1,CDO 2
+http://179.51.136.19:8000/play/a1in/index.m3u8
+#EXTINF:-1,CYV
+http://179.51.136.19:8000/play/a1ac/index.m3u8
+#EXTINF:-1,AMERICA
+http://179.51.136.19:8000/play/a1aq/index.m3u8
+#EXTINF:-1,ESPN PREMIUM
+http://179.51.136.19:8000/play/a1ar/index.m3u8
+#EXTINF:-1,ESPN
+http://179.51.136.19:8000/play/a1an/index.m3u8
+#EXTINF:-1,ESPN 2
+http://179.51.136.19:8000/play/a1ak/index.m3u8
+#EXTINF:-1,ESPN 3
+http://179.51.136.19:8000/play/a1ah/index.m3u8
+#EXTINF:-1,ESPN 4
+http://179.51.136.19:8000/play/a1ag/index.m3u8
+#EXTINF:-1,ESPN 6
+http://179.51.136.19:8000/play/a1ai/index.m3u8
+
+
+
+#EXTINF:-1,#EXTINF:-1,
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a029
+#EXTINF:-1, ESPN
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1, ESPN 3
+http://190.102.246.93:9005/play/a02l
+
+
+
+#EXTINF:-1,
+#EXTINF:-1,SONY CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278404/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SONY CHANEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278405/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TCM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278406/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TLC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278407/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT novelas
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278408/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,H&H
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278411/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TURBO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278414/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,COMEDIA CENTRAL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278415/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,E
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278417/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,EURO CHANEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278423/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FILM & ARTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278424/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278427/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,31
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278431/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LIFETIME
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278434/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MASCHIC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278435/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SONY CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278437/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,STAR CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278438/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,STAR CHANNEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278439/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SERIES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278442/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SERIES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278443/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNICABLE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278446/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278449/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,USA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278452/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,WARNER
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278453/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,54
+http://belami5top/L0K0TV/movian/mov/scripts/BUDTV-19/278454/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,D PELICULA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278456/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,D PELICULA PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278457/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,59
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278459/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CINE LATINO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278460/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,61
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278461/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CINECANAL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278463/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AZTECA TV
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278465/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CINEMAX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278468/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CLARO CINEMA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278469/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,D PELICULA PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278470/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SONY MOVIES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278471/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL CINEMA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278472/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL COMEDY
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278473/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL CRIME
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278474/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278476/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLDEN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278479/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLDEN EDGE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278481/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLDEN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278483/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLDEN PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278485/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLDEN PREMIER
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278487/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278488/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO PLUS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278490/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278492/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278493/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO FAMILY
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278496/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO MUNDI
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278500/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO MUNDI
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278501/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO POP
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278502/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO POP
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278503/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO SIGNATURE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278504/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO SIGNATURE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278505/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO XTREME
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278507/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HBO XTREME
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278508/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MULTI CANAL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278509/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MULTIPREMIER
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278510/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PANICO HD
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278511/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PARAMOUNT
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278513/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SPACE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278515/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIVERSAL STUDIO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278518/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT sports
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278520/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CINE LATINO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278521/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,BITME
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278523/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278540/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CLARO SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278556/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278558/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TUDN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278559/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TUDN VIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278561/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278562/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278563/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TUDN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278570/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TUDN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278571/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TV AZTECA DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278577/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278578/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278580/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278582/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278584/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278586/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278588/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278591/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278594/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278596/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278597/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278599/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TELEMUNDO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278691/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,UNIMAS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278726/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278762/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278763/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278764/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278765/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278766/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278767/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FOX SPORTS 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278768/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TELEFE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278773/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278777/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TyC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278778/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TyC SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278779/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,VOLVER
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278780/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TELE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278789/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,5 URUGUAY
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278796/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,VTV +
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278802/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,VTV
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278804/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,BEMAD
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278807/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AMC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278811/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ANTENA 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278812/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AXN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278814/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AXN MOVIES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278815/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CALLE 13
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278817/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ODISEA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278818/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,COSMO
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278821/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DAZN 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278822/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DAZN 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278824/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DAZN F1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278826/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DAZN LA LIGA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278828/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DISNEY JR
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278831/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DIVINITY
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278832/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DMAX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278833/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,EUROSPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278834/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,EUROSPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278835/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,FACTORIA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278836/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOL TV
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278838/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,HOLLYWOOD
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278839/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278840/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MOVISTAR LALIGA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278844/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LIGA DE CAMPEONES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278845/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MEGA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278846/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MOVISTAR COMEDIA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278848/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,49
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278849/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MOVISTAR DRAMA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278850/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,51
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278851/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278852/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEOX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278853/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,54
+http://belami5top/L0K0TV/movian/mov/scripts/BUDTV-19/278854/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TELE 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278855/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TELEDEPORTE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278856/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA OTRA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278857/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,58
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278858/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PARAMOUNT
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278859/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,60
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278860/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA SEXTA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278861/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MOVISTAR DEPORTES
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278862/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NOVA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278865/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AMERICA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278889/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DS SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278892/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GOLPERU
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278895/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LATINA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278896/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA LIGA PERUANA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278897/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PERU
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278904/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278915/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278916/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278917/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278939/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278934/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278935/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278936/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278937/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278938/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278940/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PREMIERE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278941/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SIN SEÑAL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278942/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TSN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278953/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="AriaPlus - Canada",TSN 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278955/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="AriaPlus - Canada",TSN 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278956/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="AriaPlus - Canada",TSN 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278957/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="AriaPlus - Canada",TSN 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278958/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="AriaPlus - Canada",TSN 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278959/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278962/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,SN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278963/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1  tvg-id="RDS.(RÃ©seau.des.sports).ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="DaddyLive CA",RDS CA
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278968/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DS SPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278976/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278977/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278978/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278979/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278980/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ESPN PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278981/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TyC Sports
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285432/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TyC Sports
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285433/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ETC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278982/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,LA RED
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278983/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278989/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278990/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TNT SPORTS PREMIUM
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278991/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TVN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278993/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,TVN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278994/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CANAL 7 MX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278316/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MX NUESTRO CINE
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278325/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CANAL 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278328/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CANAL 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278329/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AXN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278386/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,A&E
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278389/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,ADULT SWIN
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278392/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AMC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278393/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,AMC
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278394/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,H&H
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278395/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,telepacifico
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/279398/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CINEMA DC COMICS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168727/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,DRAGON BALL Z
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168739/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MARVEL
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168752/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,MAZINYER Z
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168765/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,GATOS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168767/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,PARAMOUNT
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168557/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168614/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168615/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168616/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168617/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168618/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 6
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168619/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 7
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168620/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 8
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168621/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 9
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168614/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 10
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168615/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 11
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168616/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 12
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168617/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 13
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168618/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 14
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168619/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 15
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168620/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 16
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168621/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 17
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168622/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 18
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168624/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 19
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168623/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 20
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168625/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 21
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168626/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="CZ: HBO" tvg-logo="https://docdog.top/logo/countries/cz/hbo.png" group-title="EU | CZ & SLOVAK VIP",CZ: HBO Max 22
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168627/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168559/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168562/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168565/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168566/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168567/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168568/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,NEFLIX
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168570/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,CBS SPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285533/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 1
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285409/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285410/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 3
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285411/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 4
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285412/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 5
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285413/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 6
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285414/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 7
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285415/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 8
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285416/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 9
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285417/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 10
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285418/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 11
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285419/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 12
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285420/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Cinema_Action.png" group-title="IT | SKY CINEMA VIP",IT: SKY CINEMA 13
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/285421/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1,
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", M-Sports HD 
+http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="TV",Fox Sports 1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="TV",Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="TV",NHL Network
+http://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1  tvg-id="Fox.Deportes.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-flat-us.png?raw=true" group-title="DaddyLive USA",FOX Deportes USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium643%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
+
+
+
+#EXTINF:-1,
+#EXTINF:-1 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
+https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u?m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+
+#EXTINF:-1,FX
+http://181.119.86.68:8000/play/b002/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://181.119.86.68:8000/play/b004/index.m3u8
+#EXTINF:-1,ESPN
+http://181.119.86.68:8000/play/b031/index.m3u8
+#EXTINF:-1,ESPN 2
+http://181.119.86.68:8000/play/b032/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.119.86.68:8000/play/b033/index.m3u8
+#EXTINF:-1,ESPN 4
+http://181.119.86.68:8000/play/b005/index.m3u8
+#EXTINF:-1,ESPN 5
+http://181.119.86.68:8000/play/b028/index.m3u8
+#EXTINF:-1,ESPN 6
+http://181.119.86.68:8000/play/b030/index.m3u8
+#EXTINF:-1,ESPN 7
+http://181.119.86.68:8000/play/b029/index.m3u8
+#EXTINF:-1,DHE
+http://181.119.86.68:8000/play/b006/index.m3u8
+#EXTINF:-1,CINE
+http://181.119.86.68:8000/play/b011/index.m3u8
+#EXTINF:-1,DREAMWORLD
+http://181.119.86.68:8000/play/b013/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://181.119.86.68:8000/play/b014/index.m3u8
+#EXTINF:-1,DREAMWORLD
+http://181.119.86.68:8000/play/b017/index.m3u8
+#EXTINF:-1,D PELICULA
+http://181.119.86.68:8000/play/b035/index.m3u8
+#EXTINF:-1,CINECANAL
+http://181.119.86.68:8000/play/b036/index.m3u8
+#EXTINF:-1,FMH kids
+http://181.119.86.68:8000/play/b037/index.m3u8
+#EXTINF:-1,GOLDEN
+http://181.119.86.68:8000/play/b038/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://181.119.86.68:8000/play/b039/index.m3u8
+#EXTINF:-1,SONY MOVIES
+http://181.119.86.68:8000/play/b040/index.m3u8
+#EXTINF:-1,USA
+http://181.119.86.68:8000/play/b041/index.m3u8
+#EXTINF:-1,E
+http://181.119.86.68:8000/play/b043/index.m3u8
+#EXTINF:-1,DISCOVERY
+http://181.119.86.68:8000/play/b045/index.m3u8
+#EXTINF:-1,TLN
+http://181.119.86.68:8000/play/b053/index.m3u8
+#EXTINF:-1,RUMBA TV
+http://181.119.86.68:8000/play/b054/index.m3u8
+#EXTINF:-1,CINE LATINO
+http://181.119.86.68:8000/play/b057/index.m3u8
+#EXTINF:-1,IBERALIA
+http://181.119.86.68:8000/play/b058/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+http://181.119.86.68:8000/play/b059/index.m3u8
+#EXTINF:-1,CARACOL
+http://181.119.86.68:8000/play/b062/index.m3u8
+#EXTINF:-1,RCN
+http://181.119.86.68:8000/play/b063/index.m3u8
+#EXTINF:-1,REWIND
+http://181.119.86.68:8000/play/b071/index.m3u8
+
+#EXTINF:-1,
+#EXTINF:-1,UNIVERSAL PREMIER
+http://45.71.254.1:8000/play/a0e1/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://45.71.254.1:8000/play/a0e4/index.m3u8
+#EXTINF:-1,FUTV
+http://45.71.254.1:8000/play/a0e5/index.m3u8
+#EXTINF:-1,ESPN
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.71.254.1:8000/play/a0e8/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.71.254.1:8000/play/a0b8/index.m3u8
+#EXTINF:-1,ESPN 6
+http://45.71.254.1:8000/play/a0e9/index.m3u8
+#EXTINF:-1,canal 4
+http://45.71.254.1:8000/play/a0a1/index.m3u8
+#EXTINF:-1,TD+HD
+http://45.71.254.1:8000/play/a0a2/index.m3u8
+#EXTINF:-1,TD+2 HD
+http://45.71.254.1:8000/play/a0a3/index.m3u8
+#EXTINF:-1,CANAL 10 HD
+http://45.71.254.1:8000/play/a0a5/index.m3u8
+#EXTINF:-1,Warner bros
+http://45.71.254.1:8000/play/a0d9/index.m3u8
+#EXTINF:-1,star channel
+http://45.71.254.1:8000/play/a0d8/index.m3u8
+#EXTINF:-1,GOLDEN PREMIER
+http://45.71.254.1:8000/play/a0a6/index.m3u8
+#EXTINF:-1,GOLDEN PREMIER 2
+http://45.71.254.1:8000/play/a0a6/index.m3u8
+#EXTINF:-1,GOLTV
+https://smsbusinesshub.com/playlist/stream_12.m3u8
